@@ -1,0 +1,12 @@
+/* App.css */
+
+body {
+  color: #e0e0e0;  
+  margin: 0;
+  font-family: 'Roboto', sans-serif; 
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(231, 240, 248); 
+}
